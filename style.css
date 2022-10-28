@@ -1,0 +1,40 @@
+body
+{
+  color: white;
+  background: darkgreen;
+}
+span
+{
+  font-size: 30px;
+}
+#camera
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+
+}
+#result_hand_jesture  
+{
+  color: yellow;
+}
+.hand_jesture_name
+{
+  font-size: 40px;
+}
+.hand_jesture
+{
+  font-size:48px;
+}
+.heading {
+  font-size: 18px;
+  border-radius: 10px;
+  letter-spacing: 10px;
+}
+#result , #snapshot_div
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+  padding-left:300px;
+}
